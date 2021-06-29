@@ -1,0 +1,15 @@
+{
+    "keyboard_name": "SOLARUS2X2",
+    "url": "",
+    "maintainer": "Pushawn",
+    "width": 2,
+    "height": 2,
+    "layouts": {
+        "LAYOUT_all": {
+			"key_count": 4,
+            "layout": [
+                {"x":0, "y":0}, {"x":1, "y":0}, {"x":0, "y":1}, {"x":1, "y":1}
+            ]
+        }
+    }
+}
